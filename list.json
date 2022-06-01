@@ -1,0 +1,12 @@
+{
+    "0": {
+        "name": "Remote OBS",
+        "description": "Remote OBS",
+        "package": "remoteobs",
+        "version": "1.0.0",
+        "author": "Tai Tetsuyuki",
+        "category": "Streaming",
+        "license": "MIT",
+        "repository": "https://github.com/MacroGiciel/RemoteOBS"
+    }
+}
