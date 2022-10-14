@@ -1,0 +1,10 @@
+{
+    "name": "AuraSync Control",
+    "description": "Control Aura Sync with MacroGiciel.",
+    "package": "aurasync-control",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Utilities",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/AuraSync-Control"
+}
