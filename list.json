@@ -18,5 +18,15 @@
     "category": "Streaming",
     "license": "MIT",
     "repository": "https://github.com/MacroGiciel/RemoteOBS"
+  },
+  "trash": {
+    "name": "Trash",
+    "description": "Empty your trash on windows.",
+    "package": "trash",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Utilities",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/Trash"
   }
 }
