@@ -1,0 +1,10 @@
+{
+    "name": "SoundKey",
+    "description": "Play sound from macrogiciel.",
+    "package": "soundkey",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Streaming",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/SoundKey"
+}
