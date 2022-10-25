@@ -1,0 +1,10 @@
+{
+    "name": "Websocket",
+    "description": "Trigger an Websocket with macrogiciel.",
+    "package": "websocket",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Utilities",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/Websocket"
+}
