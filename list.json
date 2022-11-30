@@ -49,6 +49,16 @@
     "license": "MIT",
     "repository": "https://github.com/MacroGiciel/Trash"
   },
+  "twitch-control": {
+    "name": "Twitch Control",
+    "description": "Control your channel twitch with MacroGiciel.",
+    "package": "twitch-control",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Streaming",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/Twitch-Control"
+  },
   "websocket": {
     "name": "Websocket",
     "description": "Trigger an Websocket with macrogiciel.",
