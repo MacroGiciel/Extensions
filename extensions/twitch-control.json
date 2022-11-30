@@ -1,0 +1,10 @@
+{
+    "name": "Twitch Control",
+    "description": "Control your channel twitch with MacroGiciel.",
+    "package": "twitch-control",
+    "version": "1.0.0",
+    "author": "Tai Tetsuyuki",
+    "category": "Streaming",
+    "license": "MIT",
+    "repository": "https://github.com/MacroGiciel/Twitch-Control"
+}
